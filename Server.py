@@ -27,7 +27,7 @@ droid.wakeLockAcquireDim()
 
 dataReceived=""
 i=1
-serverAddress=""    # Put your Phone IP here
+serverAddress="192.168.1.254"    # Put your Phone IP here
 serverPort=2021
 bufferSize=12
 photoStoragePath='/storage/emulated/0/qpython/tmp/' # You can change where the photos are stored here!
